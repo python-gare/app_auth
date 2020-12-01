@@ -1,6 +1,6 @@
-# app_auth
+# app_auth_api
 
--------> Quick Start <--------
+#Quick Start
 
 git clone https://github.com/python-gare/app_auth.git
 
